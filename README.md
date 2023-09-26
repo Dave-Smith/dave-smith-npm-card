@@ -1,9 +1,16 @@
 # dave-smith-card
 
+## Install and Run
+```bash
+bun install -g git@github.com:dave-smith/dave-smith-npm-card.git
+bun x dave-smith-card
+```
+
+## Contribute
 To install dependencies:
 
 ```bash
-bun install
+bun install 
 ```
 
 To run:
