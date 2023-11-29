@@ -2,6 +2,9 @@
   "name": "dave-smith-card",
   "module": "index.ts",
   "type": "module",
+  "bin": {
+	  "dave-smith-card": "dist/index.js"
+  },
   "devDependencies": {
     "bun-types": "latest"
   },
